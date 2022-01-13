@@ -14,7 +14,7 @@
     "@cypress/vue": "3",
     "@vitejs/plugin-vue": "^1.3.0",
     "@vue/compiler-sfc": "^3.0.5",
-    "cypress": "^8.2.0",
+    "cypress": "https://cdn.cypress.io/beta/npm/10.0.0/circle-10.0-release-8b53acb3b2442c9d8ef032b1fc4abf01190b132c/cypress.tgz",
     "vite": "^2.4.4"
   }
 }
